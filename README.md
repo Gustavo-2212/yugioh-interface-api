@@ -1,7 +1,11 @@
-# API Yu Gi Oh Interface
+## API Yu Gi Oh Interface
 
 This project consume the endpoints of [API](https://db.ygoprodeck.com/api-guide/)
 
+---
+## Preview
+![preview](preview.png)
+---
 ## Available Scripts
 
 In the project directory, you can run:
