@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# API Yu Gi Oh Interface
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project consume the endpoints of [API](https://db.ygoprodeck.com/api-guide/)
 
 ## Available Scripts
 
